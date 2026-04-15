@@ -1,2 +1,2 @@
 # AI-coding
-存放已经实践过的ai coding项目
+MyAutoPush是一个即插即用的AI股票模块，可以用于自动化编程
